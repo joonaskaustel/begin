@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99961fec-2295-4edf-b51a-433b69d31918" name="Default Changelist" comment="readme" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/api" />
+  </component>
+  <component name="ProjectId" id="1kssx8TN6QzbM6b2JS6FgyxdtiR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/api/src/timer/dto" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\dev\begin\api\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\begin\api\src\timer\dto" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99961fec-2295-4edf-b51a-433b69d31918" name="Default Changelist" comment="" />
+      <created>1606500877842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606500877842</updated>
+      <workItem from="1606500879679" duration="13364000" />
+    </task>
+    <task id="LOCAL−00001" summary="init">
+      <created>1606500962610</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1606500962610</updated>
+    </task>
+    <task id="LOCAL−00002" summary="finishing up">
+      <created>1606513295031</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1606513295031</updated>
+    </task>
+    <task id="LOCAL−00003" summary="fixes">
+      <created>1606513536531</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1606513536531</updated>
+    </task>
+    <task id="LOCAL−00004" summary="comments">
+      <created>1606513639726</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1606513639726</updated>
+    </task>
+    <task id="LOCAL−00005" summary="comments">
+      <created>1606513661746</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1606513661746</updated>
+    </task>
+    <task id="LOCAL−00006" summary="readme">
+      <created>1606513925403</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1606513925403</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="finishing up" />
+    <MESSAGE value="fixes" />
+    <MESSAGE value="comments" />
+    <MESSAGE value="readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1857" y="525" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606500902034">
+      <screen x="0" y="0" width="2836" height="1556" />
+    </state>
+    <state x="1857" y="525" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2836.1556@0.0.2836.1556" timestamp="1606500902034" />
+    <state x="1752" y="261" key="CommitChangelistDialog2" timestamp="1606514135940">
+      <screen x="0" y="0" width="2836" height="1556" />
+    </state>
+    <state x="1752" y="261" key="CommitChangelistDialog2/0.0.2836.1556@0.0.2836.1556" timestamp="1606514135940" />
+    <state x="1719" y="507" key="Vcs.Push.Dialog.v2" timestamp="1606514244001">
+      <screen x="0" y="0" width="2836" height="1556" />
+    </state>
+    <state x="1719" y="507" key="Vcs.Push.Dialog.v2/0.0.2836.1556@0.0.2836.1556" timestamp="1606514244001" />
+  </component>
+</project>
